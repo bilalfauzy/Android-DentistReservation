@@ -17,7 +17,7 @@
 
 ## :star2: About the Project
 ### :camera: Screenshots
-<img src="https://github.com/bilalfauzy/Android-DentistReservation/assets/82695745/b199e244-d24f-4017-9e5f-adaaa4da4baa" width="300"></img>
+<img src="https://github.com/bilalfauzy/Android-DentistReservation/assets/82695745/b199e244-d24f-4017-9e5f-adaaa4da4baa" width="400"></img>
 <img src="https://github.com/bilalfauzy/Android-DentistReservation/assets/82695745/4b4469c4-91d5-461a-b8b8-cb248a7e04dc" width="300"></img>
 <img src="https://github.com/bilalfauzy/Android-DentistReservation/assets/82695745/9c77a4c9-6076-444c-98a2-de026bfb5db5" width="300"></img>
 <img src="https://github.com/bilalfauzy/Android-DentistReservation/assets/82695745/8d2b8568-c990-4487-8d3b-87e6554dbbcb" width="300"></img>
